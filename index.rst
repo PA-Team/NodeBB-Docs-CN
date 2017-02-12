@@ -1,16 +1,16 @@
 .. image:: https://i.imgur.com/3yj1n6N.png
 
 |
-**NodeBB** is a next-generation discussion platform that utilizes web sockets for instant interactions and real-time notifications. NodeBB forums have many modern features out of the box such as social network integration and streaming discussions.
+**NodeBB** 是新一代的讨论平台,利用Web Sockets即时交互和实时通知。NodeBB论坛有很多先进的特性。（例如：集成社交网络和流式讨论模块）。
 
-NodeBB is an open source project which can be forked on `GitHub <https://github.com/NodeBB/NodeBB/>`_. If there are any discrepancies in the documentation please feel free to submit a pull request (via the "Edit on GitHub" button on the top right) or raise an issue on our `issue tracker <https://github.com/NodeBB/NodeBB/>`_.
+NodeBB 是一个开源项目，任何人可以在 `GitHub <https://github.com/NodeBB/NodeBB/>`_ 进行fork操作，来和我们共同完善这个项目。如果文档存在任何不符合实际情况，翻译错误这类问题，请提交pull request(通过在右上角的“Edit on Github”按钮)或在我们的 `issue tracker <https://github.com/NodeBB/NodeBB/>`_ 中发表一篇新的issue。
 
 Table of Contents
 =================
 
 .. _installing:
 
-Installing NodeBB
+安装 NodeBB
 -----------------
 
 .. toctree::
@@ -22,7 +22,7 @@ Installing NodeBB
 
 .. _configuring:
 
-Configuring NodeBB
+配置 NodeBB
 ------------------
 
 .. toctree::
@@ -32,7 +32,7 @@ Configuring NodeBB
     configuring/databases
     configuring/proxies
 
-Running NodeBB
+运行 NodeBB
 ------------------
 
 .. toctree::
@@ -40,7 +40,7 @@ Running NodeBB
 
     running/index
 
-Upgrading NodeBB
+升级 NodeBB
 ------------------
 
 .. toctree::
@@ -48,7 +48,7 @@ Upgrading NodeBB
 
     upgrading/index
 
-Administrating NodeBB
+管理 NodeBB
 ---------------------
 
 .. toctree::
@@ -57,7 +57,7 @@ Administrating NodeBB
     admin/index
     admin/uploads
 
-Scaling NodeBB
+扩展 NodeBB
 --------------
 
 .. toctree::
@@ -65,7 +65,7 @@ Scaling NodeBB
 
     scaling/index
 
-Contributing to NodeBB
+了解 NodeBB
 ----------------------
 
 .. toctree::
@@ -74,7 +74,7 @@ Contributing to NodeBB
     contributing/style-guide
     modules/index
 
-Plugin System
+插件系统
 -------------
 
 .. toctree::
@@ -85,7 +85,7 @@ Plugin System
     plugins/settings
     plugins/i18n
 
-Widgets System
+组件系统
 --------------
 
 .. toctree::
@@ -93,7 +93,7 @@ Widgets System
 
     widgets/create
 
-Theming Engine
+主题引擎
 --------------
 
 .. toctree::
@@ -103,7 +103,7 @@ Theming Engine
     themes/templates
 
 
-Developer's Resources
+开发者资源
 ---------------------
 
 .. toctree::
@@ -111,7 +111,7 @@ Developer's Resources
 
     resources
 
-Helping out the NodeBB Project
+帮助 NodeBB 项目
 ------------------------------
 
 .. toctree::
@@ -119,7 +119,7 @@ Helping out the NodeBB Project
 
     helping/index
 
-Troubleshooting / Help
+排错 / 帮助
 ----------------------
 
 .. toctree::
@@ -127,7 +127,7 @@ Troubleshooting / Help
 
     help/help
 
-Indices and tables
+索引、术语表
 ==================
 
 * :ref:`genindex`
